@@ -1,4 +1,4 @@
-#  
+#  Enhance Craft for macOS with Craft for macOS advanced Macro: OCR scanning & widgets, the #1 macro. Includes OCR scanning and widgets for a smoother experience.
 
 
 
